@@ -76,7 +76,7 @@ def print_banner():
                       __/ |               __/ |
                      |___/               |___/ 
    Welcome to the Advanced Network Tool
-   Developed by Cipherkrish69x
+   Developed by Manya2302
    Version 2.0
    [+] This tool provides advanced network scanning capabilities.
    [+] Features:
