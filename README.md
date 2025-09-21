@@ -26,7 +26,7 @@ Welcome to the Advanced Network Scanner, a versatile tool developed by Cipherkri
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Cipherkrish69x/advanced-network-Scanner.git
+   git clone https://github.com/Manya2302/advanced-network-Scanner.git
    ```
 
 2. **Install Dependencies**:
@@ -79,8 +79,3 @@ Contributions are welcome! If you have any suggestions, improvements, or feature
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Author
-
-- **Cipherkrish69x** - [GitHub](https://github.com/Cipherkrish69x)
-
----
